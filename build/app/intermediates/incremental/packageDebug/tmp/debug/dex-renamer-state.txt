@@ -1,0 +1,4 @@
+#Tue Jan 25 09:56:56 ICT 2022
+base.0=/Users/macbook/Desktop/SourceAndroid/flta-materials/02-hello-flutter/projects/final/recipes/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
